@@ -1,0 +1,33 @@
+#res
+{ 
+	
+  
+  background-color: transparent;
+  position: absolute; 
+	text-align: center;
+	padding: 50px 0;  
+	margin-top: 0px;
+	height: 686px;
+	float: right;
+	width: 84%;
+	margin-left: 230px;
+	
+}
+
+#titre
+{
+	color: lightgray;
+
+	border-bottom: 2px lightgray solid;
+	padding-bottom: 60px;
+	margin: 0px 100px;
+	font-size :50px;
+	font-family: Bree Serif;
+}
+
+
+
+
+
+
+
